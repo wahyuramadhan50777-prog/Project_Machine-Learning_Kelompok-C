@@ -205,7 +205,7 @@ Best params: `learning_rate=0.2`, `max_depth=3`, `min_child_weight=5`, `n_estima
 **✅ Logistic Regression** dipilih sebagai model terbaik karena:
 
 - Akurasi testing **tertinggi (96.75%)** di antara semua model
-- **Tidak ada overfitting** — gap train vs test bernilai negatif (-0.0131), artinya model justru lebih baik di data baru
+- **Tidak ada overfitting**  gap train vs test bernilai negatif (-0.0131), artinya model justru lebih baik di data baru
 - Nilai Precision, Recall, dan F1-Score sangat konsisten di semua kelas (≈0.967)
 - Model paling **stabil dan generalisasi** dibanding model lainnya
 
