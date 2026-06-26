@@ -1,7 +1,7 @@
 # 📱 Mobile Price Classification — Machine Learning Project
 
 **ANGGOTA KELOMPOK**
-- Sherly Steffiyani Askarilia (K1D02404)
+- Sherly Steffiyani Askarilia (K1D024042)
 - Wahyu Putra Ramadhan (K1D024072)
 - Nata Naila Ramadani (K1D024073)
 - Rohmatunnisa Agnar Azarine (K1D024074)
