@@ -192,9 +192,9 @@ Best params: `learning_rate=0.2`, `max_depth=3`, `min_child_weight=5`, `n_estima
 
 | Model | Train Acc | Test Acc | Gap |
 |-------|-----------|----------|-----|
-| Logistic Regression | 0.9544 | 0.9675 | -0.0131 ✅ |
-| Random Forest | 0.9969 | 0.9175 | 0.0794 ⚠️ |
-| Random Forest (Top 6) | 0.9969 | 0.9300 | 0.0669 ⚠️ |
+| Logistic Regression | 0.9544 | 0.9675 | -0.0131  |
+| Random Forest | 0.9969 | 0.9175 | 0.0794  |
+| Random Forest (Top 6) | 0.9969 | 0.9300 | 0.0669  |
 | XGBoost (Default) | 1.0000 | 0.9475 | 0.0525 |
 | XGBoost (GridSearchCV) | 0.9994 | 0.9450 | 0.0544 |
 
